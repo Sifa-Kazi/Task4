@@ -16,7 +16,7 @@ Steps Performed
 
 • Created KPI cards (Total Sales, Total Profit, Sales Growth %, Total Orders)
 
-• Built line, column, donut, and tree map visuals for analysis
+• Built line,bar,table, column, donut, and tree map visuals for analysis
 
 • Added slicers for Region, Category, and Order Date
 
